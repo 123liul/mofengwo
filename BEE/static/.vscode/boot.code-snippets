@@ -1,0 +1,26 @@
+{
+	 // boot模板
+"h5": {
+	  "prefix": "boot",
+	  "body": [
+	    "<!DOCTYPE html>",
+	    "<html>",
+	    "<head>",
+	    "\t<meta charset=\"UTF-8\">",
+	    "\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+	    "\t<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+	    "\t<link rel=\"stylesheet\" href=\"css/bootstrap.css\">",
+	    "\t<script src=\"js/jquery.min.js\"></script>",
+	    "\t<script src=\"js/popper.min.js\"></script>",
+	    "\t<script src=\"js/bootstrap.min.js\"></script>",
+	    "</head>",
+	    "<body>",
+	    "\t<div class=\"container\">\n",
+	    "\t</div>",
+	    "</body>",
+	    "</html>",
+	  ],
+	  "description": "The full sample code - html5."
+	}
+	} 
+}
